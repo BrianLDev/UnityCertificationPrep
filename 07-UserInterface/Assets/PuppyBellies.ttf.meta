@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be49b5066da26d44f87974755edb4388
+timeCreated: 1488321540
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PuppyBellies
+  fontNames:
+  - PuppyBellies
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
