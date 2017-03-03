@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Audio", "Assembly-CSharp-firstpass.csproj", "{BA7A1B66-AA54-33FE-8682-0ADDA84491A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Audio", "Assembly-CSharp.csproj", "{0FE40191-6818-0354-7A1A-08EF9F4CBB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Audio", "Assembly-CSharp-Editor-firstpass.csproj", "{C71DE4A5-70B7-ACBC-0282-A631A5551653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7A1B66-AA54-33FE-8682-0ADDA84491A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7A1B66-AA54-33FE-8682-0ADDA84491A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7A1B66-AA54-33FE-8682-0ADDA84491A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7A1B66-AA54-33FE-8682-0ADDA84491A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE40191-6818-0354-7A1A-08EF9F4CBB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE40191-6818-0354-7A1A-08EF9F4CBB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE40191-6818-0354-7A1A-08EF9F4CBB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE40191-6818-0354-7A1A-08EF9F4CBB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71DE4A5-70B7-ACBC-0282-A631A5551653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71DE4A5-70B7-ACBC-0282-A631A5551653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71DE4A5-70B7-ACBC-0282-A631A5551653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71DE4A5-70B7-ACBC-0282-A631A5551653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
